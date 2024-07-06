@@ -5,7 +5,7 @@
   </head>
   <body>
 <?php
-    echo phpinfo();   
+    echo "연습하기";
 ?>
   </body>
 </html>
